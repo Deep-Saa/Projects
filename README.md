@@ -24,5 +24,3 @@ Project files can be found in the folder:
 01_voltage_divider/
 
 ---
-
-More experiments will be added as part of the learning process.
